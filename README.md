@@ -31,6 +31,7 @@ problems we know about, whether they affect them, any workaround, and which rele
 | `confirmed` | Reproduced; not yet being fixed |
 | `in-progress` | Being fixed |
 | `workaround-available` | The issue describes a way around it |
+| `no-impact` | Harmless: nothing to do, listed so it isn't a surprise |
 | `fixed-next-release` | Fixed; ships in the next release |
 
 Fixes are also listed in each release's notes on the portal's Downloads page.
