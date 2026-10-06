@@ -1,0 +1,13 @@
+# This tracker lists only the issues RaptorGRC chooses to disclose. The public can't open issues
+# here: with blank issues off and no templates, "New issue" shows only these routes.
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem (customers)
+    url: https://raptorgrc.com/portal/feedback
+    about: Signed-in customers report bugs and problems privately from the portal. We publish the ones that affect others here.
+  - name: Contact us
+    url: https://raptorgrc.com/contact
+    about: Not a customer yet? Get in touch through the website.
+  - name: Report a security vulnerability
+    url: https://raptorgrc.com/vulnerability-disclosure
+    about: Never report security issues publicly. Use our private disclosure process.
